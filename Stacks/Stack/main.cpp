@@ -13,6 +13,7 @@ int main(){
     for (char i: text)
         a.push(i);
 
+
     //Mostrando elementos
     a.show();jump_line
 
