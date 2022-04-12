@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Trees/AVL_Tree/avl_btree.h
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Trees/AVL_Tree/main.cpp
+iostream
+-
+stack
+-
+avl_btree.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Trees/AVL_Tree/avl_btree.h
+vector
+-
+
