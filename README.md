@@ -11,7 +11,10 @@ data items with a specific relationship amongst them. Thus, choosing an effectiv
 key to success in the design of algorithms.
 
 
-
-- [Linked Lists]
-- [Stacks].
-- [Queues].
+## Topics to be covered
+- Linked Lists.
+- Stacks.
+- Queues.
+- Searh and Sorting
+- Trees.
+- Graphs.
