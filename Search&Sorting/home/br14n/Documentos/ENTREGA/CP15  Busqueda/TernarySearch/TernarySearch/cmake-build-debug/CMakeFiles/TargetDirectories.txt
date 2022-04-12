@@ -1,3 +1,0 @@
-/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Search&Sorting/home/br14n/Documentos/ENTREGA/CP15  Busqueda/TernarySearch/TernarySearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Search&Sorting/home/br14n/Documentos/ENTREGA/CP15  Busqueda/TernarySearch/TernarySearch/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Search&Sorting/home/br14n/Documentos/ENTREGA/CP15  Busqueda/TernarySearch/TernarySearch/cmake-build-debug/CMakeFiles/TernarySearch.dir
