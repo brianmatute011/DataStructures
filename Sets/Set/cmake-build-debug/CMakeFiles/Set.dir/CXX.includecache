@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Sets/Set/__list.h
+iostream
+-
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Sets/Set/__ordered_list.h
+__list.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Sets/Set/__list.h
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Sets/Set/__set.h
+iostream
+-
+__ordered_list.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Sets/Set/__ordered_list.h
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Sets/Set/main.cpp
+__set.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Sets/Set/__set.h
+
