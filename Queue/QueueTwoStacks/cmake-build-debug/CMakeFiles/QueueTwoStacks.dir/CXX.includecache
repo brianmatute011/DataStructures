@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/QueueTwoStacks/_queue_twostacks.h
+_stack.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/QueueTwoStacks/_stack.h
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/QueueTwoStacks/_stack.h
+iostream
+-
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/QueueTwoStacks/main.cpp
+iostream
+-
+_queue_twostacks.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/QueueTwoStacks/_queue_twostacks.h
+
