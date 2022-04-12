@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Trees/BST/_bs_tree.h
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Trees/BST/main.cpp
+iostream
+-
+_bs_tree.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Trees/BST/_bs_tree.h
+
