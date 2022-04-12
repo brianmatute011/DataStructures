@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Search&Sorting/CountingSort/CountingSort.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
