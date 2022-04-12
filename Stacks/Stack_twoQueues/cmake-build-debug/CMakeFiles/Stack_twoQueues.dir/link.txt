@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Stack_twoQueues.dir/main.cpp.o -o Stack_twoQueues 
