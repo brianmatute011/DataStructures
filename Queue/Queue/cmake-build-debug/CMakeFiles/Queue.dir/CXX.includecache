@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/Queue/_queue.h
+
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/Queue/main.cpp
+iostream
+-
+_queue.h
+/home/br14n/CLionProjects/MyProject/Repo/brianmatute111/DataStructure/Queue/Queue/_queue.h
+
