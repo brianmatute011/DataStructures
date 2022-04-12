@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CocktailSort.dir/main.cpp.o -o CocktailSort 
