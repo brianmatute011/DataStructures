@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TernarySearch.dir/main.cpp.o -o TernarySearch 
