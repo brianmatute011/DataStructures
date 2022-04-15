@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/Git/Repo/brianmatute111/DataStructure/Graphs/Spanning Tree/Prim/Prim.cpp
+bits/stdc++.h
+-
+
