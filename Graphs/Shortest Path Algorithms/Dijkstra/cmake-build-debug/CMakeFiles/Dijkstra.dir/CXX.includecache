@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/br14n/Git/Repo/brianmatute111/DataStructure/Graphs/Shortest Path Algorithms/Dijkstra/Dijkstra.cpp
+bits/stdc++.h
+-
+
